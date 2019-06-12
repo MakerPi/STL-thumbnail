@@ -1,0 +1,14 @@
+/STL-Thumbnail/.vs
+/STL-Thumbnail/AutoUpdater/bin
+/STL-Thumbnail/AutoUpdater/obj
+/STL-Thumbnail/AutoUpdater/packages.config
+/STL-Thumbnail/Marlin3DprinterStlViewer/obj
+/STL-Thumbnail/Marlin3DprinterStlViewer/bin
+/STL-Thumbnail/Marlin3DprinterToolConfiguration/obj
+/STL-Thumbnail/Marlin3DprinterToolConfiguration/bin
+/STL-Thumbnail/Marlin3DprinterToolStlConfiguration/obj
+/STL-Thumbnail/Marlin3DprinterToolStlConfiguration/bin
+/STL-Thumbnail/Marlin3DprinterToolStlThumbnailProvider/obj
+/STL-Thumbnail/Marlin3DprinterToolStlThumbnailProvider/bin
+/STL-Thumbnail/Marlin3DprinterToolStlConfiguration/packages.config
+/STL-Thumbnail/Marlin3DprinterToolConfiguration/packages.config
