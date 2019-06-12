@@ -125,7 +125,7 @@ namespace Marlin3DprinterToolStlThumbnailProvider
                 {
                     try
                     {
-                        string colorString = (string) Registry.GetValue(@"HKEY_CURRENT_USER\Software\Marlin3DprinterTool", "Color","Blue");
+                        string colorString = (string) Registry.GetValue(@"HKEY_CURRENT_USER\Software\3D model file", "Color","Yellow");
 
                         convertFromString = ColorConverter.ConvertFromString(colorString);
                         Logg($"2. Color: {convertFromString}");
